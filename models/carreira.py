@@ -1,3 +1,5 @@
+# A classe Carreira representa uma profissão do futuro.
+# Ela possui um nome e uma lista de competências relevantes com pesos associados.
 class Carreira:
     def __init__(self, nome: str, competencias_relevantes: dict):
         self.nome = nome
