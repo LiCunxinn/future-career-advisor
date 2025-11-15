@@ -1,0 +1,27 @@
+{
+    "Engenheiro(a) de Software": {
+        "Lógica": 3,
+        "Resolução de Problemas": 2,
+        "Criatividade": 1
+    },
+    "Designer UX/UI": {
+        "Criatividade": 3,
+        "Empatia": 2,
+        "Colaboração": 1
+    },
+    "Cientista de Dados": {
+        "Lógica": 3,
+        "Matemática": 3,
+        "Curiosidade": 2
+    },
+    "Gestor(a) de Projetos": {
+        "Organização": 3,
+        "Comunicação": 2,
+        "Colaboração": 3
+    },
+    "Especialista em IA": {
+        "Lógica": 3,
+        "Curiosidade": 2,
+        "Resolução de Problemas": 3
+    }
+}
