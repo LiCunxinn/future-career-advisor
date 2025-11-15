@@ -1,3 +1,5 @@
+# A classe Perfil representa o usuário do sistema.
+# Ela armazena o nome e um conjunto de competências em um dicionário.
 class Perfil:
     def __init__(self, nome: str):
         self.nome = nome
