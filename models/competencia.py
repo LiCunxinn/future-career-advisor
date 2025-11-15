@@ -3,7 +3,8 @@
 class Competencia:
     def __init__(self, nome: str, nivel: int):
         self.nome = nome
-        self.nivel = nivel
+        self.nivel = nivel    # nível informado pelo usuário
 
     def __str__(self):
+        # Retorna uma representação da competência
         return f"{self.nome}: {self.nivel}/10"
